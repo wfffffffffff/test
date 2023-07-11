@@ -1,0 +1,392 @@
+[
+  {
+    "name": "My New Test Art #1",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//1.png",
+    "dna": "7a30586659fb2b09112dea97a4b3f5b5a9fa053a",
+    "edition": 1,
+    "date": 1689049781195,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #2",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//2.png",
+    "dna": "fb3e56e7b876049a499544c86accb1026a2d4324",
+    "edition": 2,
+    "date": 1689049781415,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Low"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #3",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//3.png",
+    "dna": "3a062eb5eead24da91364ca648deaaf70d8f4092",
+    "edition": 3,
+    "date": 1689049781562,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #4",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//4.png",
+    "dna": "a21ae2bb43ab2b5f2448ac5d96404e72e9198781",
+    "edition": 4,
+    "date": 1689049781705,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #5",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//5.png",
+    "dna": "cfa27eeba852b5a1cc1b861892aa36c65b2df024",
+    "edition": 5,
+    "date": 1689049781856,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #6",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//6.png",
+    "dna": "61e48aad1604691baef6491a4481cb0e3e32ec6c",
+    "edition": 6,
+    "date": 1689049782033,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Cyan"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Middle"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #7",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//7.png",
+    "dna": "92d6f5150aead5820b188bc56464b5e1961b160b",
+    "edition": 7,
+    "date": 1689049782185,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #8",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//8.png",
+    "dna": "a85bae4a3be104d33b46d3e4ce012b3157ae3628",
+    "edition": 8,
+    "date": 1689049782345,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Medium"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "Middle"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #9",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//9.png",
+    "dna": "8c3476cb2808d41a001005d1cf2adae95b493154",
+    "edition": 9,
+    "date": 1689049782508,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "White"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Large"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "High"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "My New Test Art #10",
+    "description": "Remember to replace this description",
+    "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//10.png",
+    "dna": "9a90509d2faeda9fe5f19852653a8033442665a0",
+    "edition": 10,
+    "date": 1689049782689,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Black"
+      },
+      {
+        "trait_type": "Eyeball",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Eye color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Iris",
+        "value": "Small"
+      },
+      {
+        "trait_type": "Shine",
+        "value": "Shapes"
+      },
+      {
+        "trait_type": "Bottom lid",
+        "value": "Low"
+      },
+      {
+        "trait_type": "Top lid",
+        "value": "High"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
