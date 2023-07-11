@@ -1,10 +1,10 @@
 {
   "name": "My New Test Art #3",
   "description": "Remember to replace this description",
-  "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//3.png",
-  "dna": "3a062eb5eead24da91364ca648deaaf70d8f4092",
+  "image": "https://stalwart-phoenix-ed78ce.netlify.app/images/3.png",
+  "dna": "f6decd3758fec287ebba5cda110e0f50afacd3d1",
   "edition": 3,
-  "date": 1689049781562,
+  "date": 1689073182008,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,15 +12,15 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Eye color",
-      "value": "Green"
+      "value": "Yellow"
     },
     {
       "trait_type": "Iris",
-      "value": "Small"
+      "value": "Medium"
     },
     {
       "trait_type": "Shine",
@@ -28,11 +28,11 @@
     },
     {
       "trait_type": "Bottom lid",
-      "value": "Low"
+      "value": "Middle"
     },
     {
       "trait_type": "Top lid",
-      "value": "High"
+      "value": "Middle"
     }
   ],
   "compiler": "HashLips Art Engine"

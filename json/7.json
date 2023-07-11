@@ -1,10 +1,10 @@
 {
   "name": "My New Test Art #7",
   "description": "Remember to replace this description",
-  "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//7.png",
-  "dna": "92d6f5150aead5820b188bc56464b5e1961b160b",
+  "image": "https://stalwart-phoenix-ed78ce.netlify.app/images/7.png",
+  "dna": "f795dbbebbe18288e2db37c0dcf21e202823d597",
   "edition": 7,
-  "date": 1689049782185,
+  "date": 1689073182614,
   "attributes": [
     {
       "trait_type": "Background",
@@ -32,7 +32,7 @@
     },
     {
       "trait_type": "Top lid",
-      "value": "High"
+      "value": "Middle"
     }
   ],
   "compiler": "HashLips Art Engine"

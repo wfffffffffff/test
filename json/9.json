@@ -1,10 +1,10 @@
 {
   "name": "My New Test Art #9",
   "description": "Remember to replace this description",
-  "image": "https://stalwart-phoenix-ed78ce.netlify.app/images//9.png",
-  "dna": "8c3476cb2808d41a001005d1cf2adae95b493154",
+  "image": "https://stalwart-phoenix-ed78ce.netlify.app/images/9.png",
+  "dna": "7a30586659fb2b09112dea97a4b3f5b5a9fa053a",
   "edition": 9,
-  "date": 1689049782508,
+  "date": 1689073183001,
   "attributes": [
     {
       "trait_type": "Background",
@@ -12,7 +12,7 @@
     },
     {
       "trait_type": "Eyeball",
-      "value": "White"
+      "value": "Red"
     },
     {
       "trait_type": "Eye color",
@@ -20,7 +20,7 @@
     },
     {
       "trait_type": "Iris",
-      "value": "Large"
+      "value": "Small"
     },
     {
       "trait_type": "Shine",
