@@ -1,0 +1,39 @@
+{
+  "name": "My New Test Art #9",
+  "description": "Remember to replace this description",
+  "image": "https://stalwart-phoenix-ed78ce.netlify.app/images/9.png",
+  "dna": "014f28ab150bb3f875b65c2b6d6e832e47c810e3",
+  "edition": 9,
+  "date": 1689520586021,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Black"
+    },
+    {
+      "trait_type": "Eyeball",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Eye color",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Iris",
+      "value": "Medium"
+    },
+    {
+      "trait_type": "Shine",
+      "value": "Shapes"
+    },
+    {
+      "trait_type": "Bottom lid",
+      "value": "High"
+    },
+    {
+      "trait_type": "Top lid",
+      "value": "Low"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
